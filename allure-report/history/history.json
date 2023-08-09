@@ -1,0 +1,42 @@
+{
+  "662fcbbeda9c4f62fe92c015358897b9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "85387aaeb5348b73",
+      "reportUrl" : "http://localhost:8080/job/OrangeHRM_Project/2/allure/#testresult/85387aaeb5348b73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1691588297092,
+        "stop" : 1691588297486,
+        "duration" : 394
+      }
+    } ]
+  },
+  "9947b0b08bb8f3d7f92d8220dff6d790" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7135e74597c62553",
+      "reportUrl" : "http://localhost:8080/job/OrangeHRM_Project/2/allure/#testresult/7135e74597c62553",
+      "status" : "passed",
+      "time" : {
+        "start" : 1691588328607,
+        "stop" : 1691588345950,
+        "duration" : 17343
+      }
+    } ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-QRGRBTF",
+    "children" : [ {
+      "name" : "6872-MainThread",
+      "children" : [ {
+        "name" : "test_Login_page_002",
+        "uid" : "2f1786663cc10df9",
+        "parentUid" : "c1175341177e1a4b12fc920d5c20e219",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691586242885,
+          "stop" : 1691586259473,
+          "duration" : 16588
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c1175341177e1a4b12fc920d5c20e219"
+    }, {
+      "name" : "9204-MainThread",
+      "children" : [ {
+        "name" : "test_Login_page_002",
+        "uid" : "7135e74597c62553",
+        "parentUid" : "aa7dfea43cd0e6a0d1845ed8a66931cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691588328607,
+          "stop" : 1691588345950,
+          "duration" : 17343
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aa7dfea43cd0e6a0d1845ed8a66931cb"
+    }, {
+      "name" : "13676-MainThread",
+      "children" : [ {
+        "name" : "test_Login_page_001",
+        "uid" : "85387aaeb5348b73",
+        "parentUid" : "27778d28affdb11292b36a37c2ad21c5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691588297092,
+          "stop" : 1691588297486,
+          "duration" : 394
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "27778d28affdb11292b36a37c2ad21c5"
+    }, {
+      "name" : "14996-MainThread",
+      "children" : [ {
+        "name" : "test_Login_page_001",
+        "uid" : "b513bc85c0199f62",
+        "parentUid" : "a96241a73d9bd1c12dbdacf5aeacd138",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691586252414,
+          "stop" : 1691586253031,
+          "duration" : 617
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a96241a73d9bd1c12dbdacf5aeacd138"
+    } ],
+    "uid" : "e84f163b634f8e59278728a5d50cdc4a"
+  } ]
+}

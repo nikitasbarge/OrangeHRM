@@ -1,0 +1,89 @@
+{
+  "uid" : "2f1786663cc10df9",
+  "name" : "test_Login_page_002",
+  "fullName" : "TestCases.test_Login.Test_Login#test_Login_page_002",
+  "historyId" : "9947b0b08bb8f3d7f92d8220dff6d790",
+  "time" : {
+    "start" : 1691586242885,
+    "stop" : 1691586259473,
+    "duration" : 16588
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1691586204692,
+      "stop" : 1691586238027,
+      "duration" : 33335
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7382ec5d2fb4adca",
+      "name" : "log",
+      "source" : "7382ec5d2fb4adca.txt",
+      "type" : "text/plain",
+      "size" : 830
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_Login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-QRGRBTF"
+  }, {
+    "name" : "thread",
+    "value" : "6872-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f1786663cc10df9.json",
+  "parameterValues" : [ ]
+}

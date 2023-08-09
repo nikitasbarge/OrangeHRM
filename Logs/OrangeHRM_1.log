@@ -1,0 +1,51 @@
+2023-08-09 18:34:02,887 : INFO : Test_Login : test_Login_page_002 : 28 : Testcase test_Login_page_002 is started
+2023-08-09 18:34:02,887 : INFO : Test_Login : test_Login_page_002 : 29 : Opening browser
+2023-08-09 18:34:02,888 : INFO : Test_Login : test_Login_page_002 : 32 : Entering username
+2023-08-09 18:34:03,609 : INFO : Test_Login : test_Login_page_002 : 34 : Entering password
+2023-08-09 18:34:03,870 : INFO : Test_Login : test_Login_page_002 : 36 : Clicking login button
+2023-08-09 18:34:04,094 : INFO : Test_Login : test_Login_page_002 : 38 : Checking login status
+2023-08-09 18:34:09,707 : INFO : Test_Login : test_Login_page_002 : 40 : Login successively
+2023-08-09 18:34:09,707 : INFO : Test_Login : test_Login_page_002 : 41 : Taking screenshot
+2023-08-09 18:34:10,139 : INFO : Test_Login : test_Login_page_002 : 44 : Clicking menu button
+2023-08-09 18:34:10,336 : INFO : Test_Login : test_Login_page_002 : 46 : Clicking logout button
+2023-08-09 18:34:12,415 : INFO : Test_Login : test_Login_page_001 : 8 : Testcase test_Login_page_001 is started
+2023-08-09 18:34:12,416 : INFO : Test_Login : test_Login_page_001 : 9 : Opening browser
+2023-08-09 18:34:12,492 : INFO : Test_Login : test_Login_page_001 : 11 : Page title is :OrangeHRM
+2023-08-09 18:34:12,503 : INFO : Test_Login : test_Login_page_001 : 13 : Taking screenshot
+2023-08-09 18:34:13,030 : INFO : Test_Login : test_Login_page_001 : 17 : Testcase test_Login_page_001 is completed
+2023-08-09 18:34:19,127 : INFO : Test_Login : test_Login_page_002 : 48 : Logout successively
+2023-08-09 18:34:19,128 : INFO : Test_Login : test_Login_page_002 : 49 : Testcase test_Login_page_002 is completed
+2023-08-09 19:08:17,092 : INFO : Test_Login : test_Login_page_001 : 8 : Testcase test_Login_page_001 is started
+2023-08-09 19:08:17,152 : INFO : Test_Login : test_Login_page_001 : 9 : Opening browser
+2023-08-09 19:08:17,165 : INFO : Test_Login : test_Login_page_001 : 11 : Page title is :OrangeHRM
+2023-08-09 19:08:17,173 : INFO : Test_Login : test_Login_page_001 : 13 : Taking screenshot
+2023-08-09 19:08:17,484 : INFO : Test_Login : test_Login_page_001 : 17 : Testcase test_Login_page_001 is completed
+2023-08-09 19:08:48,607 : INFO : Test_Login : test_Login_page_002 : 28 : Testcase test_Login_page_002 is started
+2023-08-09 19:08:48,608 : INFO : Test_Login : test_Login_page_002 : 29 : Opening browser
+2023-08-09 19:08:48,608 : INFO : Test_Login : test_Login_page_002 : 32 : Entering username
+2023-08-09 19:08:53,658 : INFO : Test_Login : test_Login_page_002 : 34 : Entering password
+2023-08-09 19:08:53,908 : INFO : Test_Login : test_Login_page_002 : 36 : Clicking login button
+2023-08-09 19:08:58,289 : INFO : Test_Login : test_Login_page_002 : 38 : Checking login status
+2023-08-09 19:08:59,849 : INFO : Test_Login : test_Login_page_002 : 40 : Login successively
+2023-08-09 19:08:59,850 : INFO : Test_Login : test_Login_page_002 : 41 : Taking screenshot
+2023-08-09 19:09:00,141 : INFO : Test_Login : test_Login_page_002 : 44 : Clicking menu button
+2023-08-09 19:09:00,273 : INFO : Test_Login : test_Login_page_002 : 46 : Clicking logout button
+2023-08-09 19:09:05,750 : INFO : Test_Login : test_Login_page_002 : 48 : Logout successively
+2023-08-09 19:09:05,750 : INFO : Test_Login : test_Login_page_002 : 49 : Testcase test_Login_page_002 is completed
+2023-08-09 19:14:17,510 : INFO : Test_Login : test_Login_page_002 : 28 : Testcase test_Login_page_002 is started
+2023-08-09 19:14:17,820 : INFO : Test_Login : test_Login_page_002 : 29 : Opening browser
+2023-08-09 19:14:17,820 : INFO : Test_Login : test_Login_page_002 : 32 : Entering username
+2023-08-09 19:14:17,887 : INFO : Test_Login : test_Login_page_001 : 8 : Testcase test_Login_page_001 is started
+2023-08-09 19:14:17,888 : INFO : Test_Login : test_Login_page_001 : 9 : Opening browser
+2023-08-09 19:14:17,901 : INFO : Test_Login : test_Login_page_001 : 11 : Page title is :OrangeHRM
+2023-08-09 19:14:17,907 : INFO : Test_Login : test_Login_page_001 : 13 : Taking screenshot
+2023-08-09 19:14:18,160 : INFO : Test_Login : test_Login_page_001 : 17 : Testcase test_Login_page_001 is completed
+2023-08-09 19:14:18,572 : INFO : Test_Login : test_Login_page_002 : 34 : Entering password
+2023-08-09 19:14:18,771 : INFO : Test_Login : test_Login_page_002 : 36 : Clicking login button
+2023-08-09 19:14:18,948 : INFO : Test_Login : test_Login_page_002 : 38 : Checking login status
+2023-08-09 19:14:21,321 : INFO : Test_Login : test_Login_page_002 : 40 : Login successively
+2023-08-09 19:14:21,321 : INFO : Test_Login : test_Login_page_002 : 41 : Taking screenshot
+2023-08-09 19:14:21,507 : INFO : Test_Login : test_Login_page_002 : 44 : Clicking menu button
+2023-08-09 19:14:21,623 : INFO : Test_Login : test_Login_page_002 : 46 : Clicking logout button
+2023-08-09 19:14:23,991 : INFO : Test_Login : test_Login_page_002 : 48 : Logout successively
+2023-08-09 19:14:23,992 : INFO : Test_Login : test_Login_page_002 : 49 : Testcase test_Login_page_002 is completed
